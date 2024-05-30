@@ -8,7 +8,7 @@ This repository will focus only on SAM.Gov APIs to automate opportunity manageme
 
 To start, this repository will cover:
 1. Public Opportunities API: https://open.gsa.gov/api/get-opportunities-public-api/ -- This gives data on oppoetunities.
-2. THIS WILL COME SECOND - ONLY FOCUS IS PUBLIC OPPORTUNITIES API RIGHT NOW - Opportunity Management API: https://open.gsa.gov/api/opportunities-api/ -- This gives the ability to submit opportunity responses.
+2. (THIS WILL COME SECOND - ONLY FOCUS IS PUBLIC OPPORTUNITIES API RIGHT NOW) - Opportunity Management API: https://open.gsa.gov/api/opportunities-api/ -- This gives the ability to submit opportunity responses.
 
 
 ## Components
