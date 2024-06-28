@@ -9,4 +9,8 @@ function get_data(url)
     return response.body
 end
 
-get_data("https://api.github.com/users/JuliaLang/repos")
+#SAMPLE CALL WITH NO AUTH TOKEN
+repos = get_data("https://api.github.com/users/JuliaLang/repos")
+#for repo in repos
+    #println(repo)
+#end
